@@ -7,7 +7,7 @@
 }
 .fondogris{/*fondo gris de todo*/
 	background-color: silver;
-	height: 1000px;
+	height: 1800px;
 }
 .thegentleman{/*palabra the gentleman*/
 	font-size: 50px;
@@ -46,4 +46,35 @@ margin-bottom: 5%;
 font-size: 20px;
 color:gray;
 margin-top: 3%;
+}
+hr{
+	width: 10px;
+}
+.pic{
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.botload{
+border-radius: 20%;
+background-color: silver;
+width:20%;
+margin-left: 40%;
+margin-top: 2%;
+margin-bottom: 2%;
+}
+.follow{
+border-radius: 20%;
+background-color: silver;
+width:20%;
+margin-left: 40%;
+margin-top: 10%;
+margin-bottom: 2%;
+}
+.textfow{
+	font-size: 20px;
+	color: gray;
+}
+.fondofoot{/*fondo negro de footer*/
+	background-color: black;
+	height: 500px;
 }
