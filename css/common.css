@@ -1,0 +1,15 @@
+.fondoblanco{/*fondo blanco de en medio*/
+	background-color: white;
+
+}
+a{/*para que no tengan decoracion las a*/
+	text-decoration: none;
+	color: white;
+	padding: 2%;
+}
+.rosa{/*para poner rosa algunas palabras*/
+	color:pink;
+}
+.colora{
+	color:gray;
+}
