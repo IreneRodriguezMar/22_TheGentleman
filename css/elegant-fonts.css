@@ -766,6 +766,10 @@ you can use the generic selector below, but it's slower:
 }
 .social_twitter:before {
 	content: "\e094";
+	border-radius: 50%;
+	border: dotted;
+	padding: 2%;
+	margin-top: 10%;
 }
 .social_pinterest:before {
 	content: "\e095";

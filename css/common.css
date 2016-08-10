@@ -8,8 +8,19 @@ a{/*para que no tengan decoracion las a*/
 	padding: 2%;
 }
 .rosa{/*para poner rosa algunas palabras*/
-	color:pink;
+	color:#FF3399;
 }
 .colora{
 	color:gray;
+	margin-left: 2%;
+}
+i{
+ opacity: 0.5;
+}
+.textimg{
+	margin-top: 2%;
+}
+.border{
+	border-radius:50%;
+	border: dotted; 
 }
